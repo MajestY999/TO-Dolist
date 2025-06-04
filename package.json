@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<твой-username>.github.io/<название-репозитория>",
+  "homepage": "https://majesty999.github.io/To-do-List",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

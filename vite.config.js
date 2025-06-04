@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/todo-vue/', //  путь совпадает с именем репозитория
+  base: '/To-do-List/', //  строго как в названии репозитория
   plugins: [vue()]
 })
